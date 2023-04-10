@@ -1,0 +1,30 @@
+{
+  "id": "0106de13-e29f-43fe-bfff-e7808a97c5e4",
+  "name": "Makatay",
+  "publisher": "DEV",
+  "version": "1.0.0.13",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [ "TranslationFile", "GenerateCaptions" ],
+  "runtime": "9.0"
+}
