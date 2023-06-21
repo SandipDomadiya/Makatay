@@ -965,14 +965,14 @@ pageextension 50000 CustomerCardExt extends "Customer Card"
         {
             Visible = false;
         }
-        modify(CreateFlow)
-        {
-            Visible = false;
-        }
-        modify(SeeFlows)
-        {
-            Visible = false;
-        }
+        // modify(CreateFlow)
+        // {
+        //     Visible = false;
+        // }
+        // modify(SeeFlows)
+        // {
+        //     Visible = false;
+        // }
         addafter("&Customer")
         {
             group("Sales Process")
